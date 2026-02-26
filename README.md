@@ -1,5 +1,5 @@
 # Market Context Data Capture
-This repo contains a data pipeline for the extraction, transform and load (ETL) of Corporate filings of publicly traded companies. The source of this data is the SEC EDGAR database `www.sec.gov/edgar/search`.
+This repo contains a data pipeline for the extraction, transform and load (ETL) of Corporate filings of publicly traded companies. The source of this data is the SEC EDGAR database `www.sec.gov/edgar/search/`.
 
 This pipeline relies on a number of dependencies including
 - `PostgreSQL` data storage
